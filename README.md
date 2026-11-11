@@ -22,7 +22,7 @@ The package contains 30 Grumpy Cat GIFs, a left-facing sprint variant, and 10 pr
 
 | Slot | Animation |
 | --- | --- |
-| Idle | R02 Coffee Bucket |
+| Idle | R02 Coffee Bucket with rising steam |
 | Run Right / Left | W04 Clock-in Sprint |
 | Wave | R10 Lucky Draw |
 | Jump | R03 Coffee Tremble |
