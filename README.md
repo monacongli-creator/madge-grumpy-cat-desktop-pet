@@ -26,15 +26,15 @@ See [OpenAI's desktop pet guide](https://learn.chatgpt.com/docs/pets) and [insta
 
 | Slot | Madge |
 | --- | --- |
-| Idle | Coffee bucket · 抱咖啡桶 |
+| Idle | Redrawn R02 coffee bucket · R02 水彩抱咖啡桶 |
 | Run right / left | Clock-in sprint · 左右冲刺打卡 |
-| Wave | Desk pat · 拍桌 |
+| Wave | R09 paw wave · R09 挥爪打招呼 |
 | Jump slot | Coffee tremble · 咖啡过量 |
 | Failed | Computer crash · 电脑故障 |
 | Waiting | Waiting for a reply · 等回话 |
 | Running | Typing · 打电脑 |
-| Review | Selective hearing · 听不见 |
-| Look direction | Coffee bucket cursor follow · 16 方向视线跟随 |
+| Review | W08 revision notes · W08 看批改稿 |
+| Look direction | Existing R02 cursor follow · 沿用 R02 十六方向视线图 |
 
 ![Madge desktop pet animation frame preview](animation-preview.png)
 
