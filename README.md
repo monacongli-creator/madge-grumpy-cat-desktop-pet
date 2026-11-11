@@ -14,7 +14,7 @@ If the link is unavailable in GitHub, copy this address into your browser.
 codex://pets/install?name=MADGE%20%C2%B7%20Grumpy%20Cat&imageUrl=https%3A%2F%2Fraw.githubusercontent.com%2Fmonacongli-creator%2Fmadge-grumpy-cat-desktop-pet%2Fmain%2Fmadge-grumpy-cat-v2.png&spriteVersionNumber=2
 ```
 
-[Download the full package](madge-grumpy-cat-desktop-pet.zip)
+[Download the full package](turn-your-chatgpt-into-a-grumpy-cat.zip)
 
 ## Animations
 
