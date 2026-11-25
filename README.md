@@ -6,12 +6,12 @@ Meet Madge, a watercolor desktop pet who holds a coffee bucket, sprints to clock
 
 Open the installer on a computer with the ChatGPT desktop app and Pets enabled. Select **Madge · Grumpy Cat** in **Settings → Pets**, then enter `/pet` to show the floating companion.
 
-[Open the desktop installer](codex://pets/install?name=MADGE%20%C2%B7%20Grumpy%20Cat&imageUrl=https%3A%2F%2Fraw.githubusercontent.com%2Fmonacongli-creator%2Fmadge-grumpy-cat-desktop-pet%2Fmain%2Fmadge-grumpy-cat-v2.png%3Fv%3D7e66ebdcab20&spriteVersionNumber=2)
+[Open the desktop installer](codex://pets/install?name=MADGE%20%C2%B7%20Grumpy%20Cat&imageUrl=https%3A%2F%2Fraw.githubusercontent.com%2Fmonacongli-creator%2Fmadge-grumpy-cat-desktop-pet%2Fmain%2Fmadge-grumpy-cat-v2.png%3Fv%3D45f7fb36ee81&spriteVersionNumber=2)
 
 If the link is unavailable in GitHub, copy this address into your browser.
 
 ```text
-codex://pets/install?name=MADGE%20%C2%B7%20Grumpy%20Cat&imageUrl=https%3A%2F%2Fraw.githubusercontent.com%2Fmonacongli-creator%2Fmadge-grumpy-cat-desktop-pet%2Fmain%2Fmadge-grumpy-cat-v2.png%3Fv%3D7e66ebdcab20&spriteVersionNumber=2
+codex://pets/install?name=MADGE%20%C2%B7%20Grumpy%20Cat&imageUrl=https%3A%2F%2Fraw.githubusercontent.com%2Fmonacongli-creator%2Fmadge-grumpy-cat-desktop-pet%2Fmain%2Fmadge-grumpy-cat-v2.png%3Fv%3D45f7fb36ee81&spriteVersionNumber=2
 ```
 
 [Download the full package](turn-your-chatgpt-into-a-grumpy-cat.zip)
